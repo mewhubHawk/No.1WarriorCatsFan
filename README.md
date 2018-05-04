@@ -1,7 +1,7 @@
-# No.1WarriorCatsFan
-## proto type 
+# No.1 WarriorCatsFan
+## prototype 
 check
 ## HTML
 *
 ## Characters Context Interaction Action
-ckeck
+check
