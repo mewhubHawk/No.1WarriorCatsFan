@@ -2,10 +2,10 @@
 ## prototype 
 check
 ## HTML
-semi-done
+started
 ## Characters Context Interaction Action
 check
 
-#HTML:
+# HTML:
 
 http://jsfiddle.net/srhj2f79/114/
